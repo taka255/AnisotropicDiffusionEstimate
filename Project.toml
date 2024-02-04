@@ -1,0 +1,13 @@
+name = "AnisotropicDiffusionEstimate"
+uuid = "434b8cf3-b54c-4635-b374-ff783c7ded39"
+authors = ["K_Takanami  <takanami255@g.ecc.u-tokyo.ac.jp>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
